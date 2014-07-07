@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/RonproPlugins_2.2.2.jar" id="RonproPlugins" version="2.2.2">
+   <feature url="features/RonproPlugins_2.2.3.jar" id="RonproPlugins" version="2.2.3">
       <category name="info.matsuzawalab.ronproeditorplugin"/>
    </feature>
    <category-def name="info.matsuzawalab.ronproeditorplugin" label="info.matsuzawalab.ronproeditorplugin"/>
